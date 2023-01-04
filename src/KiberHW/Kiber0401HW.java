@@ -3,11 +3,14 @@ package KiberHW;
 import java.util.Arrays;
 
 public class Kiber0401HW {
-    static int square(int a){
-        return a*a;
+    static int square(int a) {
+        return a * a;
     }
+
     public static void main(String[] args) {
-        int[]arrayOfNumbers = {1, 2, 3, 4, 5};
+        int[] arrayOfNumbers = {1, 2, 3, 4, 5};
+        System.out.println(arrayOfNumbers.length);
+
         System.out.println(Arrays.toString(arrayOfNumbers)); //вывод всех чисел
 
 
