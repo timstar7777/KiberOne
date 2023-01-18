@@ -25,6 +25,8 @@ public class Kiber1801HW {
         }
         return arrayOfNumbers;
     }
-    public static int[] findOutAverageNumberFromArray()
+    public static int[] findOutAverageNumberFromArray() {
+        
+    }
 
 }
