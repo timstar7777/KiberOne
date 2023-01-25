@@ -27,7 +27,6 @@ public class Kiber1801CW {
         }
 
         System.out.println(Arrays.toString(lines));
-        System.out.println(findShortestLine());
     }
 
     public static void printTableOfSin(int interval) {
