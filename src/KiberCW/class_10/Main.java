@@ -22,6 +22,7 @@ public class Main {
         //Tutor tutor2 = new Tutor2("Anna", "Gamarova", 26 , "Blue", "Blonde",  "gfdgdfg" , "5325135");
         System.out.println("Новый тьютор " + tutor.getName() + " преподает " + tutor.getNumberOfClasses() + " занятий в неделю.");
 
+
         System.out.println(tutor.call(tutor));
         System.out.println(firstStudent.print());
         System.out.println(firstStudent.call(tutor));
